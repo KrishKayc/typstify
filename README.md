@@ -8,7 +8,7 @@ Using **LangGraph** to manage an iterative refinement loop and **Advanced LLMs**
 
 ## 🛠 How it Works: The Iterative Loop
 
-Typstify operates on a **Research -> Generate -> Compile -> Compare** lifecycle:
+Typstify operates on a **Generate -> Compile -> Compare** lifecycle:
 
 1.  **Generate Node**: Analyzes the original PDF images and generates Typst code. If previous attempts failed, it receives the error logs or visual feedback to perform surgical fixes.
 2.  **Compile Node**: Uses the local `typst` CLI to compile the generated code into a PDF.
