@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pdf
+temp.typ
+final_template.typ

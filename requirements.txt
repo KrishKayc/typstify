@@ -1,0 +1,10 @@
+langgraph
+langchain-google-genai
+google-generativeai
+pdf2image
+pypdf
+python-dotenv
+pillow
+scikit-image
+opencv-python
+reportlab
