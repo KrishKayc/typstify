@@ -1,6 +1,6 @@
 # Typstify 🚀
 
-**Typstify** is an AI-powered agentic application that converts PDF documents into high-quality, editable [Typst](https://typst.app/) templates. 
+**Typstify** is an AI-powered agentic application that converts PDF documents into high-quality, editable [Typst](https://github.com/typst/typst) templates. 
 
 Using **LangGraph** to manage an iterative refinement loop and **Advanced LLMs** (like Gemini, GPT-4o, or Claude) for vision and code generation, Typstify doesn't just "guess" the layout—it verifies it by compiling the code and visually comparing the result against the original.
 
