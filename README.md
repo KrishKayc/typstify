@@ -98,3 +98,10 @@ app = create_app(llm)
 
 **Note:** Ensure your chosen model supports **Vision** (multi-modal input), as it needs to "see" the PDF pages for accurate layout replication.
 
+---
+
+## 📝 TODO
+
+- [ ] Implement Prompt Caching.
+
+
